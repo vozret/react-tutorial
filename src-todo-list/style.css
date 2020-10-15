@@ -1,0 +1,38 @@
+body {
+    background-color: #282c34;
+    color: white;
+    padding: 40px;
+    font-family: Arial;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+  }
+
+header {
+    margin: auto;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+footer {
+    margin: auto;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.mainContent {
+    padding: 10px;
+    border-bottom: solid 1px whitesmoke;
+}
+
+.completedContent {
+    padding: 10px;
+    border-bottom: solid 1px whitesmoke;
+    text-decoration: line-through;
+    font-style: italic;
+    color: #cdcdcd;
+}
+
+.contentText {
+    padding-left: 10px;
+}

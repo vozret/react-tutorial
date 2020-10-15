@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+.main-div {
+    background-color: #cecece;
+    color: black;
+    padding: 15px;
+    width: 75%;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.jokes {
+    background-color: #f4f4f4;
+    width: 50%;
+    margin: auto;
+    padding: 25px;
+    text-align: left;
+    border-bottom: black solid;
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+}
